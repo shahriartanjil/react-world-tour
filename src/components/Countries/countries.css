@@ -3,3 +3,11 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
 }
+
+.visited{
+    background-color: skyblue;
+}
+
+.flag-container{
+    width: 100px;
+}
